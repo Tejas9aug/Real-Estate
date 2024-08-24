@@ -1,6 +1,6 @@
 .inner-container {
     gap: 1.5rem;
-    background-color: rgb(33, 33, 152);
+    background-color: skyblue;
     padding: 2rem;
     border-radius: 20px;
     border: 6px solid rgb(107, 107, 195);
@@ -8,7 +8,7 @@
   }
   
   .inner-container .primaryText {
-    color: aliceblue;
+    color: rgb(240, 250, 255);
     font-weight: 600;
   }
   

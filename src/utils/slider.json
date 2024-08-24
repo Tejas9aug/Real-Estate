@@ -1,20 +1,44 @@
 [
     {
-      "name": "Aliva Priva Jardin",
-      "price": "47,043",
-      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "name": "Jalsa",
+      "price": "470,043",
+      "detail": "Juhu, Vaikunthlal Mehta Rd,Bombay,Maharashtra,India",
       "image": "./r1.png"
     },
     {
-      "name": "Asatti Garden City",
-      "price": "66,353",
-      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "name": "Raj Mahal",
+      "price": "660,353",
+      "detail": "Juhu, Bombay,Maharashtra,India",
       "image": "./r2.png"
     },
     {
-      "name": "Citralan Puri Serang",
+      "name": "Mannat",
+      "price": "350,853",
+      "detail": "Bandstand, Bandra (West), Mumbai, Maharashtra,India",
+      "image": "./r3.png"
+    },
+    {
+      "name": "Aashirwad",
+      "price": "470,043",
+      "detail": "Dayabhai Rd, Santosh Nagar, Bandra West, Mumbai, Maharashtra,India",
+      "image": "./r1.png"
+    },
+    {
+      "name": "Villa Aquarius",
+      "price": "660,353",
+      "detail": "Bandra ,Mumbai,Maharashtra,India",
+      "image": "./r2.png"
+    },
+    {
+      "name": "Bella Vista",
       "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "detail": "Bandra ,Mumbai,Maharashtra,India",
+      "image": "./r3.png"
+    },
+    {
+      "name": "BeauMonde",
+      "price": "35,853",
+      "detail": "Bandstand, Bandra (West), Mumbai, Maharashtra,India",
       "image": "./r3.png"
     },
     {
@@ -46,29 +70,6 @@
       "price": "66,353",
       "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
       "image": "./r2.png"
-    },
-    {
-      "name": "Citralan Puri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./r3.png"
-    },
-    {
-      "name": "Aliva Priva Jardin",
-      "price": "47,043",
-      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-      "image": "./r1.png"
-    },
-    {
-      "name": "Asatti Garden City",
-      "price": "66,353",
-      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-      "image": "./r2.png"
-    },
-    {
-      "name": "Citralan Puri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./r3.png"
     }
+    
   ]
